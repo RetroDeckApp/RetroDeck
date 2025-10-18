@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "yusuf.RetroDeck",
+        "paths": [
+          "/ghostface",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
