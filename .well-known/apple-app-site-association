@@ -1,8 +1,9 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appID": "yusuf.RetroDeck",
+        "appID": "FWV7A7DAYB.yusuf.RetroDeck",
         "paths": [
           "/ghostface",
           "/*"
